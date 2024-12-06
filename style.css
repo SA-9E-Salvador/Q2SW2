@@ -1,8 +1,8 @@
         body {
-            background-image: url('e.gif'); /* Correct syntax */
-            background-size: cover; /* Ensure the image covers the entire background */
-            background-repeat: no-repeat; /* Prevent tiling */
-            background-position: center; /* Center the image */
+            background-image: url('e.gif'); 
+            background-size: cover; 
+            background-repeat: no-repeat; 
+            background-position: center; 
         }
         .header {
             background-color: coral;
@@ -16,7 +16,7 @@
            background-color: grey; 
            border-radius: 5px;
            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-           opacity: 0.9; /* Slight transparency */
+           opacity: 0.9;
         }
         .footer {
             text-align: center;
